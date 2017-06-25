@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1498398658 source:c:\users\rodrigo\onedrive\documentos\c++\rc4\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	"math.h"
+	<windows.h>
+
